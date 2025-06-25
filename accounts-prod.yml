@@ -7,7 +7,7 @@ accounts:
   message: "Welcome to Eazy Bank accounts related Prod Apis"
   contactDetails:
     name: "Smith Ray- Prod Lead"
-    email: "smith@helpinfo.com"
+    email: "{cipher}6dc0e77ed9fac5dee408aff6a6d4730b57e1c71bf6aeae2bbd49df3575b2fbd65fa8b3d2cb562dd948cf342fd0523cf9"
   onCallSupport:
     -(555)555-1238
     -(555)555-1239
